@@ -18,3 +18,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0344-reverse-string) |
+# Array
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0260-single-number-iii) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0260-single-number-iii) |
