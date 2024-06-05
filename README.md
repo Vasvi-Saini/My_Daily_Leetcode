@@ -14,10 +14,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
@@ -26,3 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0260-single-number-iii) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
