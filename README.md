@@ -19,11 +19,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0344-reverse-string) |
+| [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0260-single-number-iii) |
+| [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -32,3 +34,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Hash Table
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
