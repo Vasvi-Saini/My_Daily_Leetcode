@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0260-single-number-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0260-single-number-iii) |
 | [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -38,7 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
