@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0260-single-number-iii) |
 | [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
 | ------- |
@@ -48,3 +50,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
