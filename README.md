@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0260-single-number-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0260-single-number-iii) |
 | [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Vasvi-Saini/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vasvi-Saini/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Vasvi-Saini/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vasvi-Saini/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
@@ -58,9 +60,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Vasvi-Saini/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vasvi-Saini/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Vasvi-Saini/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
