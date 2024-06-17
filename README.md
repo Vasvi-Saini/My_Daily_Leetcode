@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vasvi-Saini/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 # Simulation
 |  |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -77,3 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Vasvi-Saini/Leetcode/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0633-sum-of-square-numbers) |
