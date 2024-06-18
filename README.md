@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Vasvi-Saini/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Vasvi-Saini/Leetcode/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/Vasvi-Saini/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vasvi-Saini/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0330-patching-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Vasvi-Saini/Leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Vasvi-Saini/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vasvi-Saini/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vasvi-Saini/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vasvi-Saini/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -67,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/Vasvi-Saini/Leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Vasvi-Saini/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vasvi-Saini/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vasvi-Saini/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -83,3 +87,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Vasvi-Saini/Leetcode/tree/master/0853-most-profit-assigning-work) |
