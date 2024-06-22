@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vasvi-Saini/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 # Simulation
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/Vasvi-Saini/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vasvi-Saini/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vasvi-Saini/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vasvi-Saini/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Vasvi-Saini/Leetcode/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Trie
 |  |
 | ------- |
@@ -98,3 +101,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Vasvi-Saini/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
