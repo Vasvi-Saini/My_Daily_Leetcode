@@ -1,4 +1,4 @@
-class Solution {
+  class Solution {
 public:
    int maxNumEdgesToRemove(int n, vector<vector<int>>& edges) {
         class UnionFind {
@@ -64,5 +64,6 @@ public:
         }
         
         return -1;
+    
     }
 };
