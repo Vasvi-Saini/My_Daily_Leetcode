@@ -11,7 +11,8 @@
  */
 class Solution {
 public:
-   bool findPath(TreeNode* lca , int target , string &path){
+  
+       bool  findPath(TreeNode* lca , int target , string &path){
         if(lca == NULL){
             return false;
         }
@@ -59,5 +60,6 @@ public:
         result += lcaToDest;
 
         return result;
+    
     }
 };
