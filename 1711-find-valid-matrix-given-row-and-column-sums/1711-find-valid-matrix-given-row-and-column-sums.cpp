@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> restoreMatrix(vector<int>& rowSum, vector<int>& colSum) {
-        int m = rowSum.size();
+          int m = rowSum.size();
         int n = colSum.size();
         vector<vector<int>> vec(m, vector<int>(n));
         
