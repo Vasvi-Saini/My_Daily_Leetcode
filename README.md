@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vasvi-Saini/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Vasvi-Saini/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -212,11 +213,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vasvi-Saini/Leetcode/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -266,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vasvi-Saini/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
