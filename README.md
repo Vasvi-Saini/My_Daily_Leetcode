@@ -253,12 +253,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Vasvi-Saini/Leetcode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vasvi-Saini/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2846-robot-collisions) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Vasvi-Saini/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Vasvi-Saini/Leetcode/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/Vasvi-Saini/Leetcode/tree/master/1642-water-bottles) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Vasvi-Saini/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
 |  |
 | ------- |
@@ -324,4 +326,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0002-add-two-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Vasvi-Saini/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
