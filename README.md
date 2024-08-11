@@ -315,11 +315,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Vasvi-Saini/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
