@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Vasvi-Saini/Leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vasvi-Saini/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vasvi-Saini/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vasvi-Saini/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Vasvi-Saini/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
