@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-      void Traversal(TreeNode* root , vector<int> &ans){
+         void Traversal(TreeNode* root , vector<int> &ans){
        if(!root) return;
        Traversal(root->left , ans);
        Traversal(root->right , ans);
@@ -21,6 +21,5 @@ public:
         vector<int> ans;
         Traversal(root , ans);
         return ans;
-    
     }
 };
