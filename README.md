@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Vasvi-Saini/Leetcode/tree/master/1642-water-bottles) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Vasvi-Saini/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vasvi-Saini/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2846-robot-collisions) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Vasvi-Saini/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vasvi-Saini/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Vasvi-Saini/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vasvi-Saini/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Vasvi-Saini/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Vasvi-Saini/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Vasvi-Saini/Leetcode/tree/master/2502-sort-the-people) |
