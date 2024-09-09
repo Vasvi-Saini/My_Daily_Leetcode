@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/Vasvi-Saini/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2486-most-frequent-even-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Vasvi-Saini/Leetcode/tree/master/2502-sort-the-people) |
@@ -275,12 +276,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vasvi-Saini/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vasvi-Saini/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/Vasvi-Saini/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Vasvi-Saini/Leetcode/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vasvi-Saini/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vasvi-Saini/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/Vasvi-Saini/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2846-robot-collisions) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Vasvi-Saini/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/Vasvi-Saini/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vasvi-Saini/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2411-spiral-matrix-iv](https://github.com/Vasvi-Saini/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Bit Manipulation
 |  |
