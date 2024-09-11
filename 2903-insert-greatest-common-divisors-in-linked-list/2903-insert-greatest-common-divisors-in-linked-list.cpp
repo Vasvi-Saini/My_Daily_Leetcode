@@ -28,8 +28,8 @@ public:
         //  int i = 0;
         //  temp = head;
          while(temp->next){
-            ListNode* ptr = temp;
-            ptr = temp->next;
+            ListNode* ptr = temp->next;
+            // ptr = temp->next;
             temp->next = new ListNode(__gcd(temp->val , ptr->val));
             temp = temp->next;
             temp->next = ptr;
