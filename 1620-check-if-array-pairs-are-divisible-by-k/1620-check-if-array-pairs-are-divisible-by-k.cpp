@@ -1,12 +1,11 @@
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
-        vector<int> mp(k, 0); //O(K)
-        //mp[r] = x
-        //remainder r has frequency x
+       vector<int> mp(k, 0); 
+       
 
         for(int &num : arr) {
-            int rem = (num%k + k) % k; //handling negative remainders
+            int rem = (num%k + k) % k; 
             mp[rem]++;
         }
 
