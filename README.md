@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Vasvi-Saini/Leetcode/tree/master/0890-lemonade-change) |
+| [1304-longest-happy-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vasvi-Saini/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vasvi-Saini/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vasvi-Saini/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vasvi-Saini/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/1304-longest-happy-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Vasvi-Saini/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Vasvi-Saini/Leetcode/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vasvi-Saini/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vasvi-Saini/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/1304-longest-happy-string) |
 | [1720-crawler-log-folder](https://github.com/Vasvi-Saini/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vasvi-Saini/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
