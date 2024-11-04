@@ -10,8 +10,8 @@ public:
                 }
             }
         }
-        if(x==k-1){
-            return n;
+        if(x==k-1){    // let say n=12 and k=6 the loop has checked all the no upto n/2 and didn’t find the 6th factor yet
+            return n;   // so return the no. itself as it is the onlyfactor left
         }
         return -1;
     }
