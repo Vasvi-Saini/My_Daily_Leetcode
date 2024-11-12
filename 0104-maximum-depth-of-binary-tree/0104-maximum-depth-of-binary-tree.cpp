@@ -11,18 +11,21 @@
  */
 class Solution {
 public:
-   void traverse(TreeNode* root, int &maxDepth, int currDepth){
-    if(!root){
-        maxDepth = max(currDepth, maxDepth);
-        return;
-    }
-    currDepth++;
-    traverse(root->left , maxDepth, currDepth);
-    traverse(root->right, maxDepth, currDepth);
-   }
     int maxDepth(TreeNode* root) {
-     int maxDepth = 0;
-     traverse(root, maxDepth , 0);
-     return maxDepth;
+        if(!root) return 0;
+        queue<TreeNode*> q;
+        q.push(root);
+        int height = 0;
+        while(!q.empty()){
+            int n = q.size();
+            height++;
+            while(n--){
+                TreeNode* temp = q.front();
+                q.pop();
+                if(temp->left) q.push(temp->left);
+                if(temp->right) q.push(temp->right);
+            }
+        }
+        return height;
     }
 };
