@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vasvi-Saini/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Vasvi-Saini/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Vasvi-Saini/Leetcode/tree/master/0726-number-of-atoms) |
