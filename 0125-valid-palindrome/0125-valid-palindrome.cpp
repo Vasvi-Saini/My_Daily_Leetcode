@@ -1,38 +1,39 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int first = 0;
-        int last = s.length() - 1;
-      
-        while(first <= last){
+        int len_of_s = s.length();
+        int last_idx = len_of_s - 1;
+        int first_idx = 0;
 
-            while(
-                first < last 
-                && !(((s[first] >= 'a') && (s[first] <= 'z'))
-                || ((s[first] >= 'A') &&  (s[first] <= 'Z'))
-                || ((s[first] >='0') &&  (s[first] <= '9')))
-            ) {
-                first++;
+        while (first_idx <= last_idx) {
+            char first = changeToLower(s[first_idx]);
+            char last = changeToLower(s[last_idx]);
+
+            if (!isAlphaNum(first)) {
+                first_idx++;
             }
-
-            while(
-                first < last 
-                && !(((s[last] >= 'a') && (s[last] <= 'z'))
-                || ((s[last] >= 'A') && (s[last] <= 'Z')) 
-                ||  ((s[last] >='0') &&  (s[last]  <= '9')))
-                ) 
-    {
-        last--;
+            else if (!isAlphaNum(last)) {
+                last_idx--;
+            }
+            else if (first != last) {
+                return false;
+            }
+            else {
+                first_idx++;
+                last_idx--;
+            }
+        }
+        return true;
     }
-         
-     
-    
-        if(tolower(s[first]) != tolower(s[last])) return false;
-        first++;
-        last--;
 
+    bool isAlphaNum(char c) {
+        return (c >= 'a' && c <= 'z') || (c >= '0' && c <= '9');
+    }
 
-      }
-      return true;
+    char changeToLower(char c) {
+        if (c >= 'A' && c <= 'Z') {
+            return c - int('A') + int('a');
+        }
+        return c;
     }
 };
