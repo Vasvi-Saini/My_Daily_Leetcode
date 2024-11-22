@@ -28,10 +28,10 @@ public:
 
         tempA = headA;
         tempB = headB;
-        
+
         if(lenA > lenB) {
             int skipA = lenA - lenB;
-            tempA = headA;
+            // tempA = headA;
             while(skipA--){
                 tempA = tempA->next;
             }
@@ -39,7 +39,7 @@ public:
 
         else{
             int skipB = lenB - lenA;
-            tempB = headB;
+            // tempB = headB;
             while(skipB--){
                 tempB = tempB->next;
             }
