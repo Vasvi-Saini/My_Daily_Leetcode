@@ -11,34 +11,14 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-         ListNode* temp = head;
-         int length_of_LinkedList = 0;
+     // base case for emplty linked list and one node list
+       if(head == NULL || head->next == NULL){
+         return head;
+       }
 
-        while(temp){
-            
-            length_of_LinkedList++;
-            temp = temp->next;
-        }
-
-        if(head == NULL){
-           return NULL;
-        }
-
-        if(length_of_LinkedList == 1){
-           return head;  
-        }
-
-        ListNode* prev = head;
-        ListNode* curr = head->next; // prev->next
-        while(curr->next){
-            ListNode* temp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = temp;
-        }
+       ListNode* front = reverseList(head->next);
+        head->next->next = head;
         head->next = NULL;
-        curr->next = prev;
-        head = curr;
-        return head;
+       return front;
     }
 };
