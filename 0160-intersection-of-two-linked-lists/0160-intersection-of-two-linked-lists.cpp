@@ -31,7 +31,7 @@ public:
 
         if(lenA > lenB) {
             int skipA = lenA - lenB;
-            // tempA = headA;
+            // tempA = headA;    // suppose if condition somehow false, then  we can not reassign tempA to the headA
             while(skipA--){
                 tempA = tempA->next;
             }
@@ -39,7 +39,7 @@ public:
 
         else{
             int skipB = lenB - lenA;
-            // tempB = headB;
+            // tempB = headB;   // same like above , so reassigned before if condition
             while(skipB--){
                 tempB = tempB->next;
             }
