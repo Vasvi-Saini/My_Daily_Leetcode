@@ -8,32 +8,48 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
-public:
+    class Solution {
+    public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == NULL || head->next == NULL) return head;
+        
+        if(head == NULL || head->next == NULL){
+         return head;
+        }
+
+        else if(k==0) {
+        return head;
+        }
+
         int count = 0;
-      ListNode* temp = head;
-      while(temp){
+        ListNode* temp = head;
+
+
+        while(temp){
         count++;
         temp = temp->next;
       }
-      k %= count;
-      if(k==0) return head;
-      count -= k;
-      ListNode* current = head ;
-      ListNode* prev = NULL;
-while(count--){
-    prev=current;
-    current = current->next;
+
+
+        k %= count;
+        if(k==0) return head;
+        count -= k;
+        ListNode* current = head ;
+        ListNode* prev;
+
+
+        while(count--){
+        prev=current;
+        current = current->next;
 }
-prev->next = NULL;
-ListNode* tail = current;
-while(tail->next!=NULL){
-    tail = tail->next;
+
+      prev->next = NULL;
+      ListNode* tail = current;
+      while(tail->next!=NULL){
+      tail = tail->next;
 }
-tail->next = head;
-head = current;
-   return head;
+      tail->next = head;
+      head = current;
+      return head;
+    
     }
 };
