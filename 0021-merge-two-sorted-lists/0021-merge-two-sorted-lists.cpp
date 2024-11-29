@@ -26,7 +26,7 @@ public:
             result = list1;
             result->next = mergeTwoLists(list1->next, list2);
         } 
-        else {
+        else {    // greater than or equal to
             result = list2;
             result->next = mergeTwoLists(list1, list2->next);
         }
