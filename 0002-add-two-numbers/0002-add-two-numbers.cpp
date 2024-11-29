@@ -11,47 +11,45 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode* p1 = l1;
+        ListNode* p2 = l2;
+        ListNode* temp;
+        int carry = 0, sum = 0;
+        
+        ListNode* ans = new ListNode(0);
+        temp = ans;
 
-         ListNode* P1 = l1 , *P2 = l2 , *temp;
+        while(p1 || p2){
 
-         ListNode* ans = new ListNode(0);
+            if(p1 && p2){
+            sum = p1->val + p2->val;
+            temp->next = new ListNode((sum+carry)%10);
+            temp = temp->next;
+            if((sum+carry) > 9) carry = 1;
+            else carry = 0;
+            p1 = p1->next;
+            p2 = p2->next;
+            }
 
-         temp = ans;   // ans toh head p rhega ...temp iterate krke new nodes create krega
-         int carry = 0;
-
-         while(P1!=NULL || P2!=NULL){    // jb tk koi ek bhi exixt krta h y chlegi
-         
-            if(P1!=NULL && P2!=NULL){   // dono exist krte h
-                int sum = P1->val+P2->val;
+           else if(!p1){
+                sum = p2->val;
                 temp->next = new ListNode((sum+carry)%10);
                 temp = temp->next;
-                if(sum + carry > 9) carry = 1;
+                if((sum+carry) > 9) carry = 1;
                 else carry = 0;
-                P1 = P1->next;
-                P2 = P2->next;
+                p2 = p2->next;
             }
 
-            else if(!P2){        // p1 only exist kyuki vo bda number h
-                temp->next = new ListNode((P1->val + carry)%10);
-                if(P1->val + carry > 9) carry = 1;
-                else carry = 0;
+            else{
+                sum = p1->val;
+                temp->next = new ListNode((sum+carry)%10);
                 temp = temp->next;
-                P1 = P1->next;
-
+                if((sum+carry) > 9) carry = 1;
+                else carry = 0;
+                p1 = p1->next;
             }
-
-            else{     // p2 only exist kyuki vo bda no. rha hoga
-                temp->next = new ListNode((P2->val + carry)%10);
-                if(P2->val + carry > 9) carry = 1;
-                else carry = 0;
-                temp = temp->next;
-                P2 = P2->next;
-            } 
-
         }
-
-         if(carry) temp->next = new ListNode(carry);
-         return ans->next;
-
+        if(carry) temp->next = new ListNode(carry);
+        return ans->next;
     }
 };
