@@ -3,11 +3,10 @@ public:
     bool checkIfExist(vector<int>& arr) {
         unordered_map<int, int> mp;
         for(int i=0; i<arr.size(); i++){
-            mp[arr[i]] = i;  
-               // 0 based indexing in .find function since it does key based checking hence ignore value 0 (map does not recognise a key with value 0 so we used .find function)
+            mp[arr[i]] = i+1;  // 1 based indexing since map does not recognize key with value 0
         }
-        for(int j=0; j<arr.size(); j++){
-            if(mp.find(arr[j]*2) != mp.end() && mp[arr[j] * 2] != j) return true;
+        for(int j=0; j<arr.size(); j++){   // value based checking
+            if(mp[arr[j]*2] && mp[arr[j] * 2] != j+1) return true;   //mp[arr[i]] gives value of key at arr[i] in map
         }
         return false;
     }
