@@ -1,13 +1,13 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        unordered_map<char , int> mp;
-        for(auto j: jewels){
-            mp[j]++;
+        unordered_map<char, bool> mp;
+        for(auto i: jewels){
+            mp[i] = true;
         }
         int count = 0;
-        for(auto i: stones){
-           if(mp[i] == 1) count++;
+        for(auto it: stones){
+           if(mp[it]) count++;
         }
         return count;
     }
