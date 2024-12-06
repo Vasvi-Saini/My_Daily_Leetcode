@@ -6,6 +6,7 @@ public:
         string encoded_str;
 
         for( auto &s: strs){
+            
             for( char c: s){
                 if(c == '/'){
                     encoded_str += "//";
