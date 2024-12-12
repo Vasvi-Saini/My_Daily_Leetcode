@@ -1,14 +1,10 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        std::unordered_map<int,int> numMap;
-        for(int num : nums){
-            if(numMap.find(num) != numMap.end()){
-                return num;
-            }
-        
-        numMap[num] = 1;
+        sort(nums.begin(), nums.end());
+        for(int i=0; i+1<nums.size();i++){
+            if(nums[i] == nums[i+1]) return nums[i];
         }
-    return -1;
+        return 0;
     }
 };
