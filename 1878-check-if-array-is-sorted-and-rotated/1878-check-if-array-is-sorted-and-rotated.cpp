@@ -4,7 +4,8 @@ public:
         int n = nums.size();
         int cnt = 0;
 
-          for(int i=1;i<n;i++){    // checking that array is sorted in increasing order
+          for(int i=1;i<n;i++){   
+         // checking that array is sorted in increasing order find the point where increasing order breaks
             if(nums[i-1]>nums[i]){
                 cnt++;
             }
