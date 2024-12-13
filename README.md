@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vasvi-Saini/Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Vasvi-Saini/Leetcode/tree/master/0125-valid-palindrome) |
