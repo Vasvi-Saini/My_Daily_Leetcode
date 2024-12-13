@@ -1,21 +1,17 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
+        int count = 0;
         int n = nums.size();
-        int cnt = 0;
 
-          for(int i=1;i<n;i++){   
-         // checking that array is sorted in increasing order find the point where increasing order breaks
-            if(nums[i-1]>nums[i]){
-                cnt++;
-            }
-        }
+      for(int i=1; i<n; i++){
+        if(nums[i] < nums[i-1]) count++;
+      }
+ 
+        if(nums[n-1] > nums[0]) count++;
+      
 
-        if(nums[n-1]>nums[0]){    // check if array is rotated
-            cnt++;
-        }
-
-        return cnt<=1;
-       
+      if(count<=1) return true;
+      else return false;
     }
 };
