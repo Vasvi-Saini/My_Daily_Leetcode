@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Vasvi-Saini/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vasvi-Saini/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2868-continuous-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Vasvi-Saini/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/3427-special-array-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Vasvi-Saini/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3533-snake-in-matrix](https://github.com/Vasvi-Saini/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2868-continuous-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Number Theory
 |  |
@@ -606,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2868-continuous-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -619,4 +623,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0812-rotate-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
