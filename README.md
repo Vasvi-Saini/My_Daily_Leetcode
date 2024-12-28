@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Vasvi-Saini/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Vasvi-Saini/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vasvi-Saini/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Vasvi-Saini/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Vasvi-Saini/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0204-count-primes) |
 | [0670-maximum-swap](https://github.com/Vasvi-Saini/Leetcode/tree/master/0670-maximum-swap) |
+| [1031-add-to-array-form-of-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/Vasvi-Saini/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/Vasvi-Saini/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vasvi-Saini/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
