@@ -1,8 +1,9 @@
 class Solution {
 public:
-int checkPrefix(string word , string pref){
+    int checkPrefix(string word , string pref){
     int i = 0 , check = 0;
-    while(i<pref.size()){
+    long long int n = pref.size();
+    while(i<n){
        if(word[i] == pref[i]){
          i++;
          check = 1;
