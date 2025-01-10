@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Vasvi-Saini/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Vasvi-Saini/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vasvi-Saini/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Vasvi-Saini/Leetcode/tree/master/0726-number-of-atoms) |
 | [0782-jewels-and-stones](https://github.com/Vasvi-Saini/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vasvi-Saini/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/0952-word-subsets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vasvi-Saini/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vasvi-Saini/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/Vasvi-Saini/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vasvi-Saini/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/0952-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vasvi-Saini/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/1304-longest-happy-string) |
