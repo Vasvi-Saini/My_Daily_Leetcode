@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vasvi-Saini/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Vasvi-Saini/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/3427-special-array-ii) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Vasvi-Saini/Leetcode/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vasvi-Saini/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Two Pointers
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vasvi-Saini/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Vasvi-Saini/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Divide and Conquer
 |  |
