@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
         int n = A.size();
-        vector<int> ans(n);
+        vector<int> ans;
       
         for(int jha_tk_jana = 0; jha_tk_jana < n; jha_tk_jana++){
 
@@ -17,7 +17,7 @@ public:
                     }
                 }
             }
-            ans[jha_tk_jana] = count;
+            ans.push_back(count);
         }
         return ans;
     }
