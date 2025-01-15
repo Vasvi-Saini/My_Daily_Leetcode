@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vasvi-Saini/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Vasvi-Saini/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2487-optimal-partition-of-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2509-minimize-xor](https://github.com/Vasvi-Saini/Leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vasvi-Saini/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Graph
 |  |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vasvi-Saini/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2509-minimize-xor](https://github.com/Vasvi-Saini/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Vasvi-Saini/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Divide and Conquer
