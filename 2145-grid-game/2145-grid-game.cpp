@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long gridGame(vector<vector<int>>& grid) {
-        long long firstRowRemainSum = accumulate(begin(grid[0]), end(grid[0]), 0LL); //O(col)
+         long long firstRowRemainSum = accumulate(begin(grid[0]), end(grid[0]), 0LL); //O(col)
 
         long long secondRowRemainSum = 0;
 
@@ -20,5 +20,8 @@ public:
         }
 
         return minimizedRobot2Sum;
+
+        // YOU CAN DO IT :)
+        // I TRUST YOU ♥
     }
 };
