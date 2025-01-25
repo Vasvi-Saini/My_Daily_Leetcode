@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Vasvi-Saini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Vasvi-Saini/Leetcode/tree/master/0125-valid-palindrome) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vasvi-Saini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Vasvi-Saini/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Vasvi-Saini/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vasvi-Saini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0161-one-edit-distance](https://github.com/Vasvi-Saini/Leetcode/tree/master/0161-one-edit-distance) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vasvi-Saini/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
