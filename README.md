@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vasvi-Saini/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vasvi-Saini/Leetcode/tree/master/0118-pascals-triangle) |
+| [0163-missing-ranges](https://github.com/Vasvi-Saini/Leetcode/tree/master/0163-missing-ranges) |
 | [0204-count-primes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Vasvi-Saini/Leetcode/tree/master/0217-contains-duplicate) |
 | [0271-encode-and-decode-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/0271-encode-and-decode-strings) |
