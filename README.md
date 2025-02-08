@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vasvi-Saini/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vasvi-Saini/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Vasvi-Saini/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2487-optimal-partition-of-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/Vasvi-Saini/Leetcode/tree/master/2509-minimize-xor) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vasvi-Saini/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vasvi-Saini/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vasvi-Saini/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Vasvi-Saini/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/Vasvi-Saini/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2846-robot-collisions) |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vasvi-Saini/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2630-alternating-digit-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Vasvi-Saini/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
