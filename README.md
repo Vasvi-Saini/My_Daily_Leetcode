@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/Vasvi-Saini/Leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vasvi-Saini/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Vasvi-Saini/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Graph
 |  |
 | ------- |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vasvi-Saini/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vasvi-Saini/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vasvi-Saini/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Vasvi-Saini/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Vasvi-Saini/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vasvi-Saini/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Vasvi-Saini/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3447-clear-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vasvi-Saini/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
