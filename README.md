@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vasvi-Saini/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2630-alternating-digit-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Vasvi-Saini/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Vasvi-Saini/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
