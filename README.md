@@ -505,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3533-snake-in-matrix](https://github.com/Vasvi-Saini/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/3636-check-balanced-string) |
+| [3709-find-special-substring-of-length-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 ## Stack
 |  |
 | ------- |
