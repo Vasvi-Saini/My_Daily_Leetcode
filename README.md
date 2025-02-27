@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vasvi-Saini/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/Vasvi-Saini/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Vasvi-Saini/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Vasvi-Saini/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Vasvi-Saini/Leetcode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vasvi-Saini/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
