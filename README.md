@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/Vasvi-Saini/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3429-special-array-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Vasvi-Saini/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vasvi-Saini/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Vasvi-Saini/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Vasvi-Saini/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vasvi-Saini/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -724,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -756,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vasvi-Saini/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -776,4 +780,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vasvi-Saini/Leetcode/tree/master/0070-climbing-stairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
