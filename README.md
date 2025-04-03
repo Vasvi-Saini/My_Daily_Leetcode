@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vasvi-Saini/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Vasvi-Saini/Leetcode/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vasvi-Saini/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vasvi-Saini/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Vasvi-Saini/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vasvi-Saini/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Vasvi-Saini/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/Vasvi-Saini/Leetcode/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -686,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/Vasvi-Saini/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
