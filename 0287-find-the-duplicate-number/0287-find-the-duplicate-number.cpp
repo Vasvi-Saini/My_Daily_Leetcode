@@ -19,13 +19,26 @@ public:
 
 // sort krke  O(nlogn )
 
-sort(nums.begin(), nums.end());
+// sort(nums.begin(), nums.end());
 
-    for(int i=0; i<nums.size()-1; i++){ // second last element tk chlega
-   if(nums[i] == nums[i+1]) return  nums[i];
+//     for(int i=0; i<nums.size()-1; i++){ // second last element tk chlega
+//    if(nums[i] == nums[i+1]) return  nums[i];
   
+//   }
+// return 0;
+
+
+
+// frequency array
+  vector<int> arr(nums.size(), 0);
+  for(int i=0; i<nums.size(); i++){
+    arr[nums[i]]++;
   }
-return 0;
+  for(int i=0; i<nums.size(); i++){
+    if(arr[i] > 1) return i;
+  }
+
+  return 0;
 
     }
 };
