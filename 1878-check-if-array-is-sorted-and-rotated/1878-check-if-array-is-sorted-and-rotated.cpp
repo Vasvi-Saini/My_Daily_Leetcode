@@ -1,30 +1,13 @@
-void rotate(vector<int> &ar){
-    // pass by reference
-    int n = ar.size();
-    int temp = ar[n-1];
-    for(int i=n-2; i>=0; i--){
-        ar[i+1] = ar[i];
-    }
-    ar[0] = temp;
-    return;
-
-}
-
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        // step1 sort
-        vector<int> arr;
-
-        arr = nums;  // vector m dono arr equal kr skte h
-        sort(arr.begin(), arr.end());
-
-        int n = nums.size();
-        while(n){
-            if(arr == nums) return 1;
-            rotate(arr);
-            n--;
-        }
+        int n  = nums.size();
+        int count = 0;
+        for(int i=0; i<n-1; i++){
+            if(nums[i+1] < nums[i]) count++; 
+        } 
+        if(count == 0 ) return 1;
+        if(count == 1 && nums[0] >= nums[n-1]) return 1;
         return 0;
     }
 };
