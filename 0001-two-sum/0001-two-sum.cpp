@@ -1,30 +1,23 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // 2nd approach tc O(nlog n) sort
-        vector<pair<int, int>> memo;
-
+        // 3rd approach hashmap tc O(n)
+        unordered_map<int, int> map;
+        int n = nums.size();
         vector<int> res;
 
-        int n = nums.size();
-
         for(int i=0; i<n; i++){
-            memo.push_back({nums[i], i});
-        }
-
-        sort(memo.begin(), memo.end());
-
-        int left = 0, right = nums.size()-1;
-
-        while(left < right){
-            if(memo[left].first + memo[right].first == target){
-                res.push_back(memo[left].second);
-                res.push_back(memo[right].second);
+            int a = nums[i];
+            int b = target - a;
+            if(map.find(b) != map.end()){   // vo chiz mil gyi h
+                res.push_back(i);
+                res.push_back(map[b]); // b ka index 
                 return res;
-            } 
-            else if(memo[left].first + memo[right].first < target) left++;
-            else right--;
+            }
+            map[a] = i; // agr nhi milta toh
         }
-    return res;
+
+       return res;
+
     }
 };
