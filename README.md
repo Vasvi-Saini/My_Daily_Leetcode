@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vasvi-Saini/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vasvi-Saini/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vasvi-Saini/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vasvi-Saini/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vasvi-Saini/Leetcode/tree/master/0118-pascals-triangle) |
 | [0163-missing-ranges](https://github.com/Vasvi-Saini/Leetcode/tree/master/0163-missing-ranges) |
+| [0169-majority-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Vasvi-Saini/Leetcode/tree/master/0217-contains-duplicate) |
 | [0271-encode-and-decode-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/0271-encode-and-decode-strings) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Vasvi-Saini/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Vasvi-Saini/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vasvi-Saini/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vasvi-Saini/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vasvi-Saini/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vasvi-Saini/Leetcode/tree/master/0290-word-pattern) |
@@ -639,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vasvi-Saini/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Vasvi-Saini/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
@@ -659,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vasvi-Saini/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vasvi-Saini/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
