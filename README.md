@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vasvi-Saini/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0148-sort-list) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vasvi-Saini/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vasvi-Saini/Leetcode/tree/master/0035-search-insert-position) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vasvi-Saini/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
