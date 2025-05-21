@@ -17,6 +17,7 @@ public:
             else {
                 index = mid;
                 end = mid-1;      // left side
+        
         }
     }
            return index;
