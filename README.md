@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Vasvi-Saini/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vasvi-Saini/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vasvi-Saini/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vasvi-Saini/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vasvi-Saini/Leetcode/tree/master/0290-word-pattern) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Vasvi-Saini/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vasvi-Saini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0161-one-edit-distance](https://github.com/Vasvi-Saini/Leetcode/tree/master/0161-one-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vasvi-Saini/Leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/Vasvi-Saini/Leetcode/tree/master/0290-word-pattern) |
