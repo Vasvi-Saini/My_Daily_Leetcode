@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Vasvi-Saini/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vasvi-Saini/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vasvi-Saini/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Vasvi-Saini/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1039-find-the-town-judge](https://github.com/Vasvi-Saini/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vasvi-Saini/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Vasvi-Saini/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/Vasvi-Saini/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vasvi-Saini/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/0952-word-subsets) |
+| [1039-find-the-town-judge](https://github.com/Vasvi-Saini/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vasvi-Saini/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vasvi-Saini/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
