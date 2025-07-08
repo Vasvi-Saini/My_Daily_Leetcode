@@ -587,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vasvi-Saini/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3533-snake-in-matrix](https://github.com/Vasvi-Saini/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3617-find-the-original-typed-string-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3636-check-balanced-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/3636-check-balanced-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/Vasvi-Saini/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
