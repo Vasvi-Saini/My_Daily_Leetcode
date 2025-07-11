@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vasvi-Saini/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vasvi-Saini/Leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0136-single-number) |
 | [0163-missing-ranges](https://github.com/Vasvi-Saini/Leetcode/tree/master/0163-missing-ranges) |
 | [0169-majority-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0204-count-primes) |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Vasvi-Saini/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Vasvi-Saini/Leetcode/tree/master/0476-number-complement) |
