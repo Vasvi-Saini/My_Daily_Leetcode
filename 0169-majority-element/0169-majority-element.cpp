@@ -1,18 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int, int> mp;
+        // Moore Voting Algorithm
 
-        int ans = 0;
-        int max_count = 0;
+        int candidate = 0; // stores the candidate who has appeared majority of times and who will win
+        int count = 0;     // how many times he has appeared\
 
         for(int n : nums){
-            mp[n]++;
-            if(mp[n] > max_count){
-                ans = n;
-                max_count = mp[n];   //highest freq;
-            }
+            if(count == 0) candidate = n;    // reset the candidate to next new number
+
+            if(n == candidate) count++;
+            else count--;
+
         }
-        return ans;
+        return candidate;
     }
 };
+
+
+//Every time we cancel different numbers, the majority element survives because it appears more than half the time.
