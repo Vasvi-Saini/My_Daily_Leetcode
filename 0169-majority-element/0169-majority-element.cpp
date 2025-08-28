@@ -9,7 +9,7 @@ public:
         for(int n : nums){
             if(count == 0) candidate = n;    // reset the candidate to next new number
 
-            if(n == candidate) count++;
+            if(n == candidate) count++;       // of current num and candidate are equal
             else count--;
 
         }
