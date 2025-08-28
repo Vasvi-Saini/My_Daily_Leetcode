@@ -9,8 +9,8 @@ public:
 
         for (int i : nums) {
             mp[i]++;
-            if (mp[i] > majority_count) {
-                res = i;
+            if (mp[i] > majority_count) {   // if freq is greater than the majority_count
+                res = i;                     // i means that number which occured max number of times
                 majority_count = mp[i];
             }
         }
