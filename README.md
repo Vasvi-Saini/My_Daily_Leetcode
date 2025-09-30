@@ -516,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Vasvi-Saini/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vasvi-Saini/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Vasvi-Saini/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Vasvi-Saini/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/Vasvi-Saini/Leetcode/tree/master/0670-maximum-swap) |
@@ -691,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Vasvi-Saini/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Vasvi-Saini/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -754,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Vasvi-Saini/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vasvi-Saini/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Vasvi-Saini/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Game Theory
 |  |
