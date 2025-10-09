@@ -15,8 +15,8 @@ public:
         sort(p.begin(), p.end(), greater<pair<int, int>>()); // descending order
         int i = 0;
         while (k--) {
-            ans.push_back(p[i].second);
-            i++;
+            ans.push_back(p[i++].second);
+        
         }
         return ans;
     }
