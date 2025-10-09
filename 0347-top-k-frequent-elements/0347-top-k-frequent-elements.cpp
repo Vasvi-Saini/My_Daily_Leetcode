@@ -5,19 +5,26 @@ public:
         for(auto it: nums){
             mp[it]++;
         }
-       
+        
+       priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
+
+       for(auto i: mp){
+        minHeap.push({i.second, i.first});
+       }
+
+       vector<int> result;
        vector<int> ans;
-        priority_queue<pair<int, int>> Pq;  // Max Heap
 
-        for(auto it: mp){
-            Pq.push({it.second, it.first});
-        }
+       while(!minHeap.empty()){
+             result.push_back(minHeap.top().second);
+             minHeap.pop();
+       }
+       reverse(result.begin(), result.end());
 
-        while(k--){
-            ans.push_back(Pq.top().second);
-            Pq.pop();
-        }
+       for(int i=0; i<k; i++){
+        ans.push_back(result[i]);
+       }
 
-        return ans;
-    }
+       return ans;
+     }
 };
