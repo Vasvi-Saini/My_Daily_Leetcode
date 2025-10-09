@@ -6,18 +6,17 @@ public:
             mp[i]++;
         }
 
-        vector<int> ans;
+        vector<int> ans(k);
         vector<vector<int>> bucket(nums.size()+1);
 
         for(auto i: mp){
             bucket[i.second].push_back(i.first);
         }
 
-        for(int i=bucket.size()-1; i>=0 && ans.size()<k; i--){
+        for(int i=bucket.size()-1; i >= 0 && k; i--){
             for(int j=0; j<bucket[i].size(); j++){
-                if(ans.size()<=k){
-                    ans.push_back(bucket[i][j]);
-                }
+                ans[--k] = bucket[i][j];
+                if(!k) break;
             }
         }
 
