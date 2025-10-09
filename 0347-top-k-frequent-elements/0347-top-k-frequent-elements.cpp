@@ -13,9 +13,10 @@ public:
         }
 
         sort(p.begin(), p.end(), greater<pair<int, int>>()); // descending order
-        
-        for(int i= 0; i<k; i++){
+        int i = 0;
+        while (k--) {
             ans.push_back(p[i].second);
+            i++;
         }
         return ans;
     }
