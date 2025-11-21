@@ -5,7 +5,7 @@ public:
       for(auto num: nums){
         st.insert(num);
       }
-      if(st.size() == num.size()) return 0;
+      if(st.size() == nums.size()) return 0;
           return 1;
     }
 
