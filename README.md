@@ -553,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Vasvi-Saini/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vasvi-Saini/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vasvi-Saini/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
