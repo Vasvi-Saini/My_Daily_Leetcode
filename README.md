@@ -538,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Vasvi-Saini/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Vasvi-Saini/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Vasvi-Saini/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vasvi-Saini/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Vasvi-Saini/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/Vasvi-Saini/Leetcode/tree/master/0670-maximum-swap) |
@@ -784,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Vasvi-Saini/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Vasvi-Saini/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vasvi-Saini/Leetcode/tree/master/0342-power-of-four) |
 ## Game Theory
 |  |
