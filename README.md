@@ -485,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Vasvi-Saini/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Vasvi-Saini/Leetcode/tree/master/0441-arranging-coins) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vasvi-Saini/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Vasvi-Saini/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vasvi-Saini/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Vasvi-Saini/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vasvi-Saini/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Vasvi-Saini/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Vasvi-Saini/Leetcode/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/Vasvi-Saini/Leetcode/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
