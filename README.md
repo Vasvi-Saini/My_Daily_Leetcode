@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Vasvi-Saini/Leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Vasvi-Saini/Leetcode/tree/master/0890-lemonade-change) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1304-longest-happy-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vasvi-Saini/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Vasvi-Saini/Leetcode/tree/master/0952-word-subsets) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Vasvi-Saini/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/Vasvi-Saini/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vasvi-Saini/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
