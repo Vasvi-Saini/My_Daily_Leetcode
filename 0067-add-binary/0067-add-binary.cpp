@@ -1,37 +1,21 @@
 class Solution {
 public:
     string addBinary(string a, string b) {
-        int len_of_a = a.length();
-        int len_of_b = b.length();
+        int i = a.size() - 1, j = b.size() - 1;
+    int carry = 0;
+    string ans = "";
 
-        int idx_a = len_of_a - 1;
-        int idx_b = len_of_b - 1;
+    while (i >= 0 || j >= 0 || carry) {
+        int sum = carry;
 
-        char carry = '0';
-        string result = "";
+        if (i >= 0) sum += a[i--] - '0';
+        if (j >= 0) sum += b[j--] - '0';
 
-        while (idx_a >= 0 || idx_b >= 0) {
-            char first = idx_a >= 0 ? a[idx_a] : '0';
-            char second = idx_b >= 0 ? b[idx_b] : '0';
+        ans.push_back((sum % 2) + '0');
+        carry = sum / 2;
+    }
 
-            if (first == '1' && second == '1') {
-                result += carry == '1' ? '1' : '0';
-                carry = '1';
-            }
-            else if (first == '0' && second == '0') {
-                result += carry == '1' ? '1' : '0';
-                carry = '0';
-            }
-            else {
-                result += carry == '1' ? '0' : '1';
-            }
-            idx_a--;
-            idx_b--;
-        }
-        if (carry == '1') {
-            result += '1';
-        }
-        reverse(result.begin(), result.end());
-        return result;
+    reverse(ans.begin(), ans.end());
+    return ans;
     }
 };
