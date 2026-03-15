@@ -1,26 +1,21 @@
 class Solution {
 public:
     bool isValid(string s) {
-    //    unordered_map< int, char> mp;
-    //    for(auto i: s){
-    //     mp.push(s[i]) 
-    //    }
-
-
-    stack<char> st;
-  
-   for(auto i: s){
-        if(i == '{' || i == '(' || i == '['){
-         st.push(i);
-         continue;
+        stack<char> st;
+        for (auto i : s) {
+            if(i == '{' || i == '(' || i== '[')
+                st.push(i);
+            else {
+                if (st.empty())
+                    return false;
+                if (i == '}' && st.top() == '{' ||
+                    i == ')' && st.top() == '(' ||
+                    i == ']' && st.top() == '[')
+                    st.pop();
+                else
+                    return false;
+            }
         }
-      if(!st.empty() && ((i==')' && st.top() =='(') || (i=='}' && st.top() =='{') || (i==']' && st.top() =='['))){
-        // if(i == '}' || i == ')' || i == ']'){
-         st.pop();
-        }
-        else return false;
-    }
-
         return st.empty();
     }
 };
