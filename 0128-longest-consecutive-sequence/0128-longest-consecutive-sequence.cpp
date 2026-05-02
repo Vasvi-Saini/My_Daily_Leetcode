@@ -1,24 +1,23 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
+       // T.C = O(NlogN);
         int n = nums.size();
-        if(n == 0){
-            return 0;
-        }
-        sort(nums.begin(), nums.end());
-        int currentConsecutiveSequence = 1;
-        int longestConsecutiveSequence = 0;
+        if(n == 0) return 0;
+        sort(nums.begin(),nums.end());
+        int CurrConSeq = 1;
+        int LongConSeq = 0;
         for(int i=1; i<n; i++){
-            if(nums[i] != nums[i-1]){
+            if(nums[i] != nums[i-1]) {   // both numbers are diff
                 if(nums[i] == nums[i-1] + 1){
-                    currentConsecutiveSequence++;
+                    CurrConSeq++;
                 }
                 else{
-                    longestConsecutiveSequence = max(longestConsecutiveSequence, currentConsecutiveSequence);
-                    currentConsecutiveSequence = 1;
+                    LongConSeq = max(CurrConSeq, LongConSeq);
+                     CurrConSeq = 1;
                 }
-            }
+            } 
         }
-        return max(longestConsecutiveSequence, currentConsecutiveSequence);
+        return max(CurrConSeq, LongConSeq);
     }
 };
