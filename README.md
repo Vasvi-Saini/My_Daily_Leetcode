@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/Vasvi-Saini/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2486-most-frequent-even-element](https://github.com/Vasvi-Saini/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Vasvi-Saini/Leetcode/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vasvi-Saini/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vasvi-Saini/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Vasvi-Saini/Leetcode/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vasvi-Saini/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Vasvi-Saini/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Vasvi-Saini/Leetcode/tree/master/2755-extra-characters-in-a-string) |
