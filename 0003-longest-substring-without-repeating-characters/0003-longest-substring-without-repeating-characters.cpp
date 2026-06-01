@@ -1,22 +1,18 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<bool> count(256, false);
-        int length=0, end=0, start=0;
-        int s1 = s.size();
-        while(end < s1){
-            while(count[s[end]]){ // character already present
-                count[s[start]] = false;     // leftmost character-> remove
-                start++;     //start update
+        int n = s.size();
+        int len = 0;
+        for(int i=0; i<n; i++){
+            unordered_set<char> st;
+            for(int j=i; j<n; j++){
+                if(st.count(s[j])){  // char is present
+                    break;
+                }
+                st.insert(s[j]);
+                len = max(len , j-i+1);
             }
-            // not present
-            count[s[end]] = true;
-            length = max(length, end-start + 1);
-            end++;
         }
-        return length;
+        return len;
     }
 };
-
-//tc => O(n) start -> 0 to n-1 , end = 0 to n-1
-// sc -> fixed -> 256 -> O(1) 
