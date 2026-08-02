@@ -1,16 +1,20 @@
 class Solution {
 public:
-    int firstMissingPositive(vector<int>& nums){
+    int firstMissingPositive(vector<int>& nums) {
         int n = nums.size();
-        vector<int> hash(n+1,-1); 
-        for(int i = 0; i<n; i++){
-             if(nums[i] > 0 && nums[i]<=n) hash[nums[i]]++;
+
+        int i = 0;
+
+        while(i<n){
+           // int ci = nums[i] - 1;       Correct iSdx of nums[i] is nums[i]-1
+            if(nums[i] > 0 && nums[i] <=n && nums[i] != nums[nums[i] - 1]) swap(nums[i] , nums[nums[i]-1]);  // if no.>0 && no<n && no. != no.sitting there means duplicate 
+            else i++;     // for negative since no<0 
         }
-        for(int i = 1 ; i<hash.size(); i++){
-            if(hash[i] == -1){
-                return i;
-            }
+
+        for(int i=0; i<n; i++){
+            if(nums[i] != i+1) return i+1;     // no is not at idx i.e idx+1
         }
-        return n+1;
+
+        return n+1;    // no missing no.
     }
 };
