@@ -6,6 +6,6 @@ public:
             if(s[i] != ' ') count++;
              else if(count > 0) return count;
         }
-        return 0;
+        return count;
     }
 };
