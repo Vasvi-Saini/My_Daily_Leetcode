@@ -532,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Vasvi-Saini/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Vasvi-Saini/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vasvi-Saini/Leetcode/tree/master/0258-add-digits) |
+| [1006-clumsy-factorial](https://github.com/Vasvi-Saini/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/Vasvi-Saini/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Vasvi-Saini/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vasvi-Saini/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/Vasvi-Saini/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Vasvi-Saini/Leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/Vasvi-Saini/Leetcode/tree/master/0670-maximum-swap) |
+| [1006-clumsy-factorial](https://github.com/Vasvi-Saini/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vasvi-Saini/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vasvi-Saini/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Vasvi-Saini/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Vasvi-Saini/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/Vasvi-Saini/Leetcode/tree/master/0726-number-of-atoms) |
+| [1006-clumsy-factorial](https://github.com/Vasvi-Saini/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vasvi-Saini/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Vasvi-Saini/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vasvi-Saini/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
