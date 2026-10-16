@@ -1,15 +1,24 @@
 class Solution {
 public:
-// o(n2)
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        for(int i=0; i<n; i++){
-            for(int j=i+1; j<n; j++){
-                if(nums[i]+ nums[j] ==  target){
-                    return {i,j};
-                }
-            }
+        vector<pair<int, int>> v;
+        
+        for(int i=0; i<nums.size(); i++){
+            v.push_back({nums[i], i});
         }
-        return {};
+
+        sort(v.begin(), v.end());
+
+        int i = 0, j = v.size()-1;
+
+        while(i<j){
+            int sum = v[i].first + v[j].first;
+
+            if(sum == target) return {v[i].second, v[j].second};
+            else if (sum < target) i++;
+            else j--;
+        }
+
+        return {-1, -1};
     }
 };
